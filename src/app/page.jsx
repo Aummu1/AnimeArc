@@ -1,9 +1,9 @@
 import React from "react";
 import Header from "./components/Header";
 import Home_1 from "./components/Home_1";
-import About_us from "./components/About_Us";
+import About_us from "./components/About_us";
 import Best from "./components/Best";
-import Img_5 from "./components/img_5";
+import Img_5 from "./components/Img_5";
 import Blog from "./components/Blog";
 
 export default function Home() {
