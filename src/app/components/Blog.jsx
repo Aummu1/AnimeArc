@@ -27,7 +27,7 @@ function Blog() {
             <div className="box-Blog2 flex justify-around">
                 <div className="Blog-l2">
                     <p className="text-4xl"><span className="text-gray-500">Anime</span> Did You Know?</p>
-                    <p>Welcome to Anime Did You Know? Here you'll find fun facts about anime that might surprise you! This menu was created to share interesting information and secrets behind anime that you may not have known before.</p>
+                    <p>Welcome to Anime Did You Know? Here you&apos;ll find fun facts about anime that might surprise you! This menu was created to share interesting information and secrets behind anime that you may not have known before.</p>
                     <button className="bg-red-700 p-2 rounded-lg w-20 text-white	">View All</button>
                 </div>
                 <div className="Blog-r2">
